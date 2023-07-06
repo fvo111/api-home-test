@@ -1,5 +1,4 @@
 {
-  "payment_type": "3_months",
   "transaction_data": {
     "amount": 12750000,
     "order_id": "TRXORDER0000100001",
@@ -40,8 +39,6 @@
         "first_name":"Darma",
         "last_name":"Wan",
         "address":"Jalan Buntu no 59",
-        "city":"Jakarta Utara",
-        "postal_code":"12960",
         "phone":"08123456890"
       }
     }
@@ -56,16 +53,12 @@
     "first_name":"Albert",
     "last_name":"Seit",
     "address":"Jalan Teknologi Indonesia No. 25",
-    "city":"Jakarta",
-    "postal_code":"12960",
     "phone":"081513114262"
   },
   "shipping_address_data": {
     "first_name":"Albert",
     "last_name":"Seit",
     "address":"Jalan Teknologi Indonesia No. 25",
-    "city":"Jakarta",
-    "postal_code":"12960",
     "phone":"081513114262"
   }
 }
