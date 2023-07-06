@@ -1,7 +1,6 @@
 {
   "transaction_data": {
     "amount": 12750000,
-    "order_id": "TRXORDER0000100001",
     "items": [
       {
         "id":"400",
@@ -33,31 +32,16 @@
     {
       "id":"SELLER001",
       "name":"TEKNIK BERSAMA",
-      "email": "teknikbersama@gmail.com",
-      "url": "https://kredivocorp.com/",
-      "address" : {
-        "first_name":"Darma",
-        "last_name":"Wan",
-        "address":"Jalan Buntu no 59",
-        "phone":"08123456890"
-      }
+      "url": "https://kredivocorp.com/"
     }
   ],
   "customer_data": {
-    "first_name": "Albert",
-    "last_name":"Seit",
+    "name": "Albert Seit",
     "email": "albert@gmail.com",
     "phone":"081111111111"
   },
-  "billing_address_data": {
-    "first_name":"Albert",
-    "last_name":"Seit",
-    "address":"Jalan Teknologi Indonesia No. 25",
-    "phone":"081513114262"
-  },
   "shipping_address_data": {
-    "first_name":"Albert",
-    "last_name":"Seit",
+    "name":"Albert seit",
     "address":"Jalan Teknologi Indonesia No. 25",
     "phone":"081513114262"
   }
