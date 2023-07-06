@@ -1,7 +1,8 @@
-## Try it
+endpoint
+[https://my-json-server.typicode.com/fvo111/api-home-test]
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+GET : 
+[https://my-json-server.typicode.com/fvo111/api-home-test/<key_name>]
 
-## Use your own data
-
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+POST : 
+[https://my-json-server.typicode.com/fvo111/api-home-test/<key_name>]
