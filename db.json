@@ -1,7 +1,7 @@
 {
   "checkout_transaction" : {
     "transaction_data": {
-      "amount": 12750000,
+      "amount": 12780000,
       "items": [
         {
           "id":"400",
@@ -13,13 +13,13 @@
           "id":"557",
           "name":"Mouse Logitek",
           "price": 500000,
-          "quantity":1
+          "quantity":2
         },
         {
           "id":"456",
           "name":"Headset Logitek",
           "price": 250000,
-          "quantity":1
+          "quantity":3
         },
         {
           "id":"600",
@@ -71,6 +71,28 @@
       "full_name": "Eren",
       "last_login": 1688184610000,
       "status" : "INACTIVE"
+    }
+  ],
+  "palindrome": [
+    {
+      "id": 1,
+      "word": "Did Hannah see bees? Hannah did."
+    },
+    {
+      "id": 2,
+      "word": "Sit on a potato pan, Otis."
+    },
+    {
+      "id": 3,
+      "word": "123000000321"
+    },
+    {
+      "id": 4,
+      "word": "katak katak kata"
+    },
+    {
+      "id": 5,
+      "word": "Kasur Kodok Rusak"
     }
   ]
 }
