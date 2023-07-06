@@ -46,5 +46,9 @@
       "address":"Jalan Teknologi Indonesia No. 25",
       "phone":"081513114262"
     }
-  }
+  },
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
 }
