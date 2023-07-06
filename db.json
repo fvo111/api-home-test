@@ -47,8 +47,30 @@
       "phone":"081513114262"
     }
   },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "user_history": [
+    {
+      "id": 1,
+      "full_name": "Gojo Satoru",
+      "last_login": 1654497759000,
+      "status" : "ACTIVE"
+    },
+    {
+      "id": 2,
+      "full_name": "Ichigo",
+      "last_login": 1686033759000,
+      "status" : "ACTIVE"
+    },
+    {
+      "id": 3,
+      "full_name": "Itadori",
+      "last_login": 1583476959000,
+      "status" : "ACTIVE"
+    },
+    {
+      "id": 4,
+      "full_name": "Eren",
+      "last_login": 1688184610000,
+      "status" : "INACTIVE"
+    }
   ]
 }
