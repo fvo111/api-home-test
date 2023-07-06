@@ -1,7 +1,7 @@
 {
   "checkout_transaction" : {
     "transaction_data": {
-      "amount": 12780000,
+      "amount": 13780000,
       "items": [
         {
           "id":"400",
@@ -44,7 +44,7 @@
     "shipping_address_data": {
       "name":"Albert seit",
       "address":"Jalan Teknologi Indonesia No. 25",
-      "phone":"081513114262"
+      "phone":"081111111111"
     }
   },
   "user_history": [
